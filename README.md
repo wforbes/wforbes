@@ -1,6 +1,6 @@
 <div style="display:flex; flex-direction:row; justify-content:center;">
 
-<div style="width:300px;">
+<div>
 
 <img src="https://res.cloudinary.com/docknhwac/image/upload/v1727341084/doesntwork_mt2vfw.png" alt="just a meme" style="object-fit:contain;" />
 
@@ -18,11 +18,11 @@
 ⚒️ Improving my online presence<br>
 🎥 Figuring out how to make YouTube videos<br>
 🧑‍🏭 Working freelance dev gigs for the student loan bills<br>
-</div>
 
 </div>
+</div>
 
-<div style="display:flex; flex-direction:row; justify-content:center; margin-top:3em;">
+<div style="display:flex; flex-direction:row; justify-content:center;  align-items:center; margin-top:3em;">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/wforbes87) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@will-codes) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/wforbes87) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@wforbes)
 
