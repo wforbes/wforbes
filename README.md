@@ -1,39 +1,30 @@
-<div style="display:flex; flex-direction:row; justify-content:center;">
 
-<div>
 
-<img src="https://res.cloudinary.com/docknhwac/image/upload/v1727341084/doesntwork_mt2vfw.png" alt="just a meme" style="object-fit:contain;" />
+# Hello, I'm Will 🙋‍♂️
 
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/wforbes87) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@will-codes) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/wforbes87) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@wforbes)
 
-<div style="margin: 1em; display:flex; flex-direction:column; justify-content:center;">
-
-<h3 style="padding-bottom:5px; margin-bottom:0px;">🤷‍♂️ It ain't much, but it's honest work:</h3>
+### 🤷‍♂️ It ain't much, but it's honest work:
 🌬️ Lead App Developer at Russell Sigler, Inc.<br>
 📜 Software Engineering Bachelor's from Western Governor's University<br>
 🛹 I love skateboarding when I'm not online<br>
 
-<h3 style="padding-bottom:5px; margin-bottom:0px;">🥅 Goals for 2025:</h3>
+### 🥅 Goals for 2025:
 🧹 Cleaning up my GitHub<br>
 ⚒️ Improving my online presence<br>
 🎥 Figuring out how to make YouTube videos<br>
 🧑‍🏭 Working freelance dev gigs for the student loan bills<br>
 
-</div>
-</div>
+<br>
+<br>
 
-<div style="display:flex; flex-direction:row; justify-content:center;  align-items:center; margin-top:3em;">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/wforbes87) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@will-codes) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/wforbes87) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@wforbes)
-
-</div>
-<div style="display:flex; flex-direction:column; justify-content:center; align-items:center; margin-top:3em;">
+Building the habit of coding every day...
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=wforbes&theme=dark&hide_border=false)
 
 [![](https://visitcount.itsvg.in/api?id=wforbes&icon=0&color=12)](https://visitcount.itsvg.in)
 
-</div>
+
 
 <!--
 
