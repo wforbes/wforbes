@@ -2,13 +2,11 @@
 
 # Hey, I'm Will 🙋‍♂️
 
-I started learning to code since 2011 and I'm fortunate to have made a career out of it.<br>
-
-
+I started learning to code in **2012** and I'm fortunate to have made a career out of it.<br>
 
 <table>
-  <tr>
-    <td>
+<tr>
+<td>
 
 **About me:** <br>
 🌬️ Lead App Developer at [Russell Sigler, Inc.](https://siglers.com)<br>
@@ -31,11 +29,7 @@ I started learning to code since 2011 and I'm fortunate to have made a career ou
 
 </table>
 
-</div>
-
 <br>
-
-<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/wforbes87) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@will-codes) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/wforbes87) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@wforbes)
 
