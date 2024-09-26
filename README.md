@@ -4,6 +4,7 @@
 
 I started learning to code since 2011, and have been fortunate to make a career out of it.
 
+
 ### 🤷‍♂️ It ain't much, but it's honest work:
 🌬️ Lead App Developer at [Russell Sigler, Inc.](https://siglers.com)<br>
 📜 Software Engineering Bachelor's from [Western Governor's University](https://wgu.edu)<br>
@@ -17,8 +18,11 @@ I started learning to code since 2011, and have been fortunate to make a career 
 
 <br>
 
+<div align="center">
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/wforbes87) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@will-codes) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/wforbes87) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@wforbes)
 
+</div>
 
 <!--
 
