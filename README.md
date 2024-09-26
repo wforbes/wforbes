@@ -1,8 +1,8 @@
 <div style="display:flex; flex-direction:row; justify-content:center;">
 
-<div>
+<div style="margin: 1em; display:flex; flex-direction:column; justify-content:center;">
 
-<img src="https://res.cloudinary.com/docknhwac/image/upload/v1727336811/doesntwork_ve6whx.png" alt="just a meme" style="max-width:400px" />
+<img src="https://res.cloudinary.com/docknhwac/image/upload/v1727336811/doesntwork_ve6whx.png" alt="just a meme" style="max-width:300px" />
 
 </div>
 
