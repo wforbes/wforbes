@@ -2,7 +2,7 @@
 
 <div style="width:200px;">
 
-<img src="https://res.cloudinary.com/docknhwac/image/upload/v1727336811/doesntwork_ve6whx.png" alt="just a meme" style="object-fit:contain; width:100%; height:100%;" />
+<img src="https://res.cloudinary.com/docknhwac/image/upload/v1727336811/doesntwork_ve6whx.png" alt="just a meme" style="object-fit:contain;" />
 
 </div>
 
