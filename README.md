@@ -1,13 +1,13 @@
 
 
-# Hello, I'm Will 🙋‍♂️
+# Hey, I'm Will 🙋‍♂️
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/wforbes87) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@will-codes) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/wforbes87) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@wforbes)
+I started learning to code since 2011, and have been fortunate to make a career out of it.
 
 ### 🤷‍♂️ It ain't much, but it's honest work:
-🌬️ Lead App Developer at Russell Sigler, Inc.<br>
-📜 Software Engineering Bachelor's from Western Governor's University<br>
-🛹 I love skateboarding when I'm not online<br>
+🌬️ Lead App Developer at [Russell Sigler, Inc.](https://siglers.com)<br>
+📜 Software Engineering Bachelor's from [Western Governor's University](https://wgu.edu)<br>
+🛹 I love [skateboarding](https://youtube.com/@wforbes87) when I'm not online<br>
 
 ### 🥅 Goals for 2025:
 🧹 Cleaning up my GitHub<br>
@@ -16,14 +16,8 @@
 🧑‍🏭 Working freelance dev gigs for the student loan bills<br>
 
 <br>
-<br>
 
-Building the habit of coding every day...
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=wforbes&theme=dark&hide_border=false)
-
-[![](https://visitcount.itsvg.in/api?id=wforbes&icon=0&color=12)](https://visitcount.itsvg.in)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/wforbes87) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@will-codes) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/wforbes87) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@wforbes)
 
 
 <!--
@@ -131,6 +125,13 @@ Building the habit of coding every day...
 ![](https://github-readme-stats.vercel.app/api?username=wforbes&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=wforbes&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+Trying to build the habit of coding every day...
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=wforbes&theme=dark&hide_border=false)
+
+[![](https://visitcount.itsvg.in/api?id=wforbes&icon=0&color=12)](https://visitcount.itsvg.in)
+
 -->
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- GPRM is an awesome github readme generator ( https://gprm.itsvg.in ) -->
