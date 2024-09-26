@@ -1,20 +1,37 @@
-
+<div align="center">
 
 # Hey, I'm Will 🙋‍♂️
 
-I started learning to code since 2011, and have been fortunate to make a career out of it.
+I started learning to code since 2011 and I'm fortunate to have made a career out of it.<br>
 
 
-### 🤷‍♂️ It ain't much, but it's honest work:
+
+<table>
+  <tr>
+    <td>
+
+**About me:** <br>
 🌬️ Lead App Developer at [Russell Sigler, Inc.](https://siglers.com)<br>
-📜 Software Engineering Bachelor's from [Western Governor's University](https://wgu.edu)<br>
+📜 Software Engineering Bachelor's from [WGU](https://wgu.edu)<br>
 🛹 I love [skateboarding](https://youtube.com/@wforbes87) when I'm not online<br>
 
-### 🥅 Goals for 2025:
+**Goals for 2024:**<br>
 🧹 Cleaning up my GitHub<br>
 ⚒️ Improving my online presence<br>
-🎥 Figuring out how to make YouTube videos<br>
-🧑‍🏭 Working freelance dev gigs for the student loan bills<br>
+🎥 Figuring out how to make [YouTube videos](https://youtube.com/@will-codes)<br>
+🧑‍🏭 Working freelance to pay off student loans<br>
+
+</td>
+<td>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=wforbes&theme=dark&hide_border=false" alt="wforbes" />
+
+</td>
+</tr>
+
+</table>
+
+</div>
 
 <br>
 
