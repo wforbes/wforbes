@@ -13,7 +13,7 @@ I started learning to code in **2012** and I'm fortunate to have made a career o
 📜 Software Engineering Bachelor's from [WGU](https://wgu.edu)<br>
 🛹 I love [skateboarding](https://youtube.com/@wforbes87) when I'm not online<br>
 
-**Goals for 2024:**<br>
+**Goals for 2025:**<br>
 🧹 Cleaning up my GitHub<br>
 ⚒️ Improving my online presence<br>
 🎥 Figuring out how to make [YouTube videos](https://youtube.com/@will-codes)<br>
