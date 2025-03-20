@@ -25,7 +25,7 @@ Now I'm focused improving my skills, reaching new heights, and helping others do
 </td>
 <td>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=wforbes&theme=dark&hide_border=false" alt="wforbes" />
+[![GitHub Streak](https://github-readme-streak-stats-two-liart.vercel.app?user=wforbes&theme=dark&hide_border=true&mode=weekly)](https://git.io/streak-stats)
 
 </td>
 </tr>
