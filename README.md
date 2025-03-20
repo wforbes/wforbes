@@ -14,7 +14,7 @@ Now I'm focused improving my skills, reaching new heights, and helping others do
 **About me:** <br>
 🌬️ Lead App Developer at [Russell Sigler, Inc.](https://siglers.com)<br>
 📜 Software Engineering Bachelor's from [WGU](https://wgu.edu)<br>
-🛹 I love [skateboarding](https://youtube.com/@wforbes87) when I'm not online<br>
+🛹 I love [skateboarding]([https://youtube.com/@wforbes87](https://www.youtube.com/shorts/seJ5moPh2fw)) when I'm not online<br>
 
 **Goals for 2025:**<br>
 🧹 Cleaning up my GitHub<br>
