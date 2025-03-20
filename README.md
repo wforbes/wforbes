@@ -20,7 +20,7 @@ Now I'm focused improving my skills, reaching new heights, and helping others do
 🧹 Cleaning up my GitHub<br>
 ⚒️ Improving my online presence<br>
 🎥 Figuring out how to make [YouTube videos](https://youtube.com/@will-codes)<br>
-🧑‍🏭 Working freelance to pay off student loans<br>
+🧑‍🏭 Grinding to pay off student loans<br>
 
 </td>
 <td>
