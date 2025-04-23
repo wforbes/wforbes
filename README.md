@@ -11,16 +11,11 @@ Now I'm focused improving my skills, reaching new heights, and helping others do
 <tr>
 <td>
 
-**About me:** <br>
-🌬️ Lead App Developer at [Russell Sigler, Inc.](https://siglers.com)<br>
-📜 Software Engineering Bachelor's from [WGU](https://wgu.edu)<br>
-🛹 I love [skateboarding]([https://youtube.com/@wforbes87](https://www.youtube.com/shorts/seJ5moPh2fw)) when I'm not online<br>
-
 **Goals for 2025:**<br>
+🧑‍🏭 Grinding to pay off student loans<br>
 🧹 Cleaning up my GitHub<br>
 ⚒️ Improving my online presence<br>
 🎥 Figuring out how to make [YouTube videos](https://youtube.com/@will-codes)<br>
-🧑‍🏭 Grinding to pay off student loans<br>
 
 </td>
 <td>
