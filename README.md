@@ -11,11 +11,11 @@ Now I'm focused improving my skills, reaching new heights, and helping others do
 <tr>
 <td>
 
-**Goals for 2025:**<br>
+**Goals for 2026:**<br>
 🧑‍🏭 Grinding to pay off student loans<br>
 🧹 Cleaning up my GitHub<br>
 ⚒️ Improving my online presence<br>
-🎥 Figuring out how to make [YouTube videos](https://youtube.com/@will-codes)<br>
+🎥 Figuring out how to make good content<br>
 
 </td>
 <td>
